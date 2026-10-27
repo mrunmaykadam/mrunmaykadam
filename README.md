@@ -1,22 +1,52 @@
-Hi there 👋
+# Vehicle Service Management System
 
-I'm Mrunmay, an AIML diploma student from India.
+## Project Overview
 
-I love building things with AI, exploring tech, and improving myself every day.
+The Vehicle Service Management System is a desktop application
+designed to manage vehicle servicing operations, customer records,
+mechanics, spare parts, billing, and payments.
 
-If I get an idea, I don’t just think about it — I try to build it and learn from it.
+## Technologies Used
 
-My main focus is on artificial intelligence, machine learning, and data analysis.  
-I usually work with Python, NumPy, Pandas, and Scikit-learn.
+- Java
+- Java Swing
+- MySQL
+- JDBC
+- MySQL Connector/J
+- Visual Studio Code
 
-I’ve started building projects and growing my skills step by step — more coming soon 🚀
+## Features
 
-If you’re into tech, AI, or just building cool stuff, we’ll get along well.
+1. User Login and Authentication
+2. Dashboard with Live Statistics
+3. Customer Management
+4. Vehicle Management
+5. Service Job Card Management
+6. Mechanic Management
+7. Spare Parts and Inventory Management
+8. Billing and Payment Management
+9. Printable Invoices
+10. Reports and Analytics
+11. CSV Report Export
+12. MySQL Database Integration
 
+## Database
 
- Fun Facts:
+Database Name: vehicle_service_db
 
- I’m into fitness and self-improvement  
- I’m obsessed with AI and future tech  
- I believe consistency beats talent  
- I enjoy games and chill time too  
+Database Backup: VehicleServiceManagement_Final_BACKUP.sql
+
+## How to Run
+
+1. Install Java JDK.
+2. Install MySQL Server.
+3. Import the database backup into MySQL.
+4. Configure the database connection in DBConnection.java.
+5. Ensure MySQL Connector/J is available in the project.
+6. Open the project in Visual Studio Code.
+7. Run Main.java.
+
+## Project Purpose
+
+This project demonstrates the use of Java Swing for desktop
+application development and MySQL for relational database management.
